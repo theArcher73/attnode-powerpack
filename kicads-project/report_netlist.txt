@@ -1,0 +1,12 @@
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "C1:/5FAAF5EB:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "C2:/5FAB0019:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J1:/5FAC5355:Connector_JST:JST_SHL_SM02B-SHLS-TF_1x02-1MP_P1.00mm_Horizontal".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J2.2:/5FAC76A2:TestPoint:TestPoint_Plated_Hole_D2.0mm".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J2.1:/5FAC7D6D:TestPoint:TestPoint_Plated_Hole_D2.0mm".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J3.2:/5FAD88E0:TestPoint:TestPoint_Pad_2.5x2.5mm".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J3.1:/5FAD8C7D:TestPoint:TestPoint_Pad_2.5x2.5mm".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "U1:/5FBEA257:MCP1703T-3302E_CB:SOT95P255X145-3N".
+Ändere Wert von Footprint C1 von 1uF zu 1µF.
+Ändere Wert von Footprint C2 von 1uF zu 1µF.
+Ändere die Referenz von Footprint - zu J3.2.
+Ändere die Referenz von Footprint + zu J3.1.

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MCP1703T-3302E/CB
+#
+DEF MCP1703T-3302E/CB U 0 40 Y Y 1 L N
+F0 "U" -400 225 50 H V L BNN
+F1 "MCP1703T-3302E/CB" -400 -300 50 H V L BNN
+F2 "SOT95P255X145-3N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Microchip" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "F" 0 0 50 H I L BNN "PARTREV"
+F6 "IPC 7351B" 0 0 50 H I L BNN "STANDARD"
+F7 "1.45 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+DRAW
+S -400 -200 400 200 0 0 10 f
+X VIN 3 -600 100 200 R 40 40 0 0 I 
+X GND 1 600 -100 200 L 40 40 0 0 W 
+X VOUT 2 600 100 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SM04B-SRSS-TB_LF__SN_)(type Legacy)(uri ${KIPRJMOD}/libs/conn/jST-SM04B-SRSS-TB_LF__SN/SM04B-SRSS-TB_LF__SN_.lib)(options "")(descr ""))
+  (lib (name MCP1703T-3302E_CB)(type Legacy)(uri ${KIPRJMOD}/libs/ldo/MCP1703T-3302E_CB/MCP1703T-3302E_CB.lib)(options "")(descr ""))
+  (lib (name CO2-PlatineMZ-H19v2-rescue)(type Legacy)(uri ${KIPRJMOD}/CO2-PlatineMZ-H19v2-rescue.lib)(options "")(descr ""))
+)

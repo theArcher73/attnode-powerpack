@@ -1,0 +1,11 @@
+Reference;Quantity;Value;Description;Footprint
+C1, C2;2;1µF;Capacitor SMD 1206;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+D1;1;1N4148;Diode SMD 1206;Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+D2, D3;2;WS2812B;WS2812B;LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+J1;1;attnode J1;Pinheader Male 2,54mm 8 Pin;Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical
+J2;1;attnode J2;Pinheader Male 2,54mm 8 Pin;Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical
+J3;1;MZ-H19;Pinheader Male 2,54mm 5 Pin;Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical
+J4;1;MZ-H19;Pinheader Male 2,54mm 4 Pin;Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+J5;1;SM04B-SRSS-TBT(LF)(SN);JST 4pin Buchse horizontal;JST-SM04B-SRSS-TB_LF__SN:JST_SM04B-SRSS-TB(LF)(SN)
+R1;1;4k7;Resistor SMD 1206;Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+U2;1;MCP1703T-3302E_CB;LDO MCP 1703T-3302E_CB;MCP1703T-3302E_CB:SOT95P255X145-3N

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MCP1703T-3302E_CB)(type KiCad)(uri ${KIPRJMOD}/libs/ldo/MCP1703T-3302E_CB)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri ${KIPRJMOD}/libs/logo)(options "")(descr ""))
+  (lib (name pads)(type KiCad)(uri ${KIPRJMOD}/libs/conn/pads)(options "")(descr ""))
+)

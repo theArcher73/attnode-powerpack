@@ -1,0 +1,29 @@
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "C1:/5FCE74BE:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J3:/601B75A1:Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J2:/5FCC7176:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J4:/601B8C47:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J5:/601FF79E:JST-SM04B-SRSS-TB_LF__SN:JST_SM04B-SRSS-TB(LF)(SN)".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "J1:/5FCC624D:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "R1:/5FCD562B:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "D3:/5FCDAA75:LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "D2:/5FCD23E2:LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "D1:/5FCD2D6C:Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "U2:/5FCDF3CC:MCP1703T-3302E_CB:SOT95P255X145-3N".
+Hinweis: Überprüfe aus der Netzliste den Bauteilfootprint "C2:/5FCE9E6D:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder".
+Ändere Netzname von Footprint J4 Pin 3 von  zu Net-(J4-Pad3).
+Ändere Netzname von Footprint J3 Pin 4 von  zu Net-(J3-Pad4).
+Ändere Netzname von Footprint J3 Pin 1 von  zu Net-(J3-Pad1).
+Ändere Wert von Footprint U2 von MCP1703T zu MCP1703T-3302E_CB.
+Ändere Netzname von Footprint J2 Pin 5 von  zu Net-(J2-Pad5).
+Ändere Netzname von Footprint J2 Pin 6 von  zu Net-(J2-Pad6).
+Ändere Netzname von Footprint J2 Pin 7 von  zu Net-(J2-Pad7).
+Ändere Netzname von Footprint J2 Pin 8 von  zu Net-(J2-Pad8).
+Ändere Wert von Footprint J2 von attnode zu attnode J2.
+Ändere Netzname von Footprint J1 Pin 8 von  zu Net-(J1-Pad8).
+Ändere Netzname von Footprint J1 Pin 7 von  zu Net-(J1-Pad7).
+Ändere Netzname von Footprint J1 Pin 4 von  zu Net-(J1-Pad4).
+Ändere Netzname von Footprint J1 Pin 3 von  zu Net-(J1-Pad3).
+Ändere Wert von Footprint J1 von attnode zu attnode J1.
+Ändere Netzname von Footprint D3 Pin 2 von  zu Net-(D3-Pad2).
+Ändere Wert von Footprint C2 von 1uF zu 1µF.
+Ändere Wert von Footprint C1 von 1uF zu 1µF.

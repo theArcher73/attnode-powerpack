@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Logo_attnode)(type KiCad)(uri ${KIPRJMOD}/libs/logo)(options "")(descr ""))
+  (lib (name MCP1703T-3302E_CB)(type KiCad)(uri ${KIPRJMOD}/libs/ldo/MCP1703T-3302E_CB)(options "")(descr ""))
+  (lib (name Pads)(type KiCad)(uri ${KIPRJMOD}/libs/conn/Pads)(options "")(descr ""))
+  (lib (name JST-SM04B-SRSS-TB_LF__SN)(type KiCad)(uri ${KIPRJMOD}/libs/conn/JST-SM04B-SRSS-TB_LF__SN)(options "")(descr ""))
+)
