@@ -9,7 +9,9 @@ Therefore, when ordering the pcb's, a smaller pcb thickness can be used if possi
 
 The power supply can be either via the JST socket, or the two pads directly on the pcb. In this case, the JST socket must not be soldered.
 
-The power supply should provide > 100mA, otherwise the output voltage at the LDO will drop.
+The voltage source must provide at least 120 mA.
+
+More information can be found [here](https://www.attno.de/blog/2021-01-08).
 
 ![front view](https://github.com/theArcher73/powerpack/blob/main/kicads-project/img/board_front.png) *front view*
 
