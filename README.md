@@ -1,4 +1,4 @@
-# powerpack
+# AttNo.de-powerpack, a adapter-pcb to use 3.3-15V
  AddOn to use the [attnode](https://attno.de) v2/v3 with 3.3-15V DC
 
 This small pcb allows to run the [attnode](https://attno.de) with an operating voltage between 3.3 and 15V.
