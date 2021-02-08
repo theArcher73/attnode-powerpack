@@ -1,0 +1,4 @@
+Reference;Quantity;Value;Bauteil;Footprint
+C1, C2;2;1µF;Capacitor SMD 1206;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+J1;1;Power_in 3.3-15V;JST 2pin 1mm horizontal;Connector_JST:JST_SHL_SM02B-SHLS-TF_1x02-1MP_P1.00mm_Horizontal
+U1;1;MCP1703T-3302E_CB;MCP 1703-3302E/CB;MCP1703T-3302E_CB:SOT95P255X145-3N
