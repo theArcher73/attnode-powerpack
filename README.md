@@ -1,9 +1,9 @@
 # AttNo.de-powerpack, a adapter-pcb to use 3.3-15V
  AddOn to use the [attnode](https://attno.de) v2/v3 with 3.3-15V DC
 
-This small pcb allows to run the [attnode](https://attno.de) with an operating voltage between 3.3 and 15V.
+This small pcb allows to run the [attnode](https://attno.de) with an operating voltage between 3.3 and 15V, for example with a USB power supply, a LiPo or any other fixed voltage power supply.
 
-It has the shape of the CR2032 battery clip and is soldered directly onto the [attnode](https://attno.de) instead of the clip.
+It has the shape of the CR2032 battery clip and is soldered directly onto the [attnode](https://attno.de) instead of the CR2032-Clip.
 
 Therefore, when ordering the pcb's, a smaller pcb thickness can be used if possible, I have had good experiences with 1.2mm.
 
