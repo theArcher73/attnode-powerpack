@@ -1,2 +1,16 @@
 # powerpack
- AddOn to use the attnode v2/v3 with 3.3-15V DC
+ AddOn to use the [attnode](https://attno.de) v2/v3 with 3.3-15V DC
+
+This small pcb allows to run the [attnode](https://attno.de) with an operating voltage between 3.3 and 15V.
+
+It has the shape of the CR2032 battery clip and is soldered directly onto the [attnode](https://attno.de) instead of the clip.
+
+Therefore, when ordering the pcb's, a smaller pcb thickness can be used if possible, I have had good experiences with 1.2mm.
+
+The power supply can be either via the JST socket, or the two pads directly on the pcb. In this case, the JST socket must not be soldered.
+
+The power supply should provide > 100mA, otherwise the output voltage at the LDO will drop.
+
+![front view](https://github.com/theArcher73/powerpack/blob/main/kicads-project/img/board_front.png) *front view*
+
+![Rear view](https://github.com/theArcher73/powerpack/blob/main/kicads-project/img/board_rear.png) *rear view*
