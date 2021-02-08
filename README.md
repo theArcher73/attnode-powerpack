@@ -13,6 +13,6 @@ The voltage source must provide at least 120 mA.
 
 More information can be found [here](https://www.attno.de/blog/2021-01-08).
 
-![front view](https://github.com/theArcher73/powerpack/blob/main/kicads-project/img/board_front.png) *front view*
+![front view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_front.png) *front view*
 
-![Rear view](https://github.com/theArcher73/powerpack/blob/main/kicads-project/img/board_rear.png) *rear view*
+![Rear view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_rear.png) *rear view*
