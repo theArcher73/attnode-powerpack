@@ -14,7 +14,7 @@ The voltage source must provide at least 120 mA.
 Update 26.05.2021: add a Voltage divider added to monitor the Vin with an ADC pin of the ATTiny. The resistance ratio must be determined based on Vin, here are some sample values. The voltage at the ADC pad should not exceed 2.1V.
 
   Vin | Vmax |  R1 | R2
-------|----__|-----|----
+------|------|-----|----
 3.7V | 4.2V | 1M | 1M
 USB | 5.25V | 1M5 | 1M
 9V | 11V | 6M8 | 1M5
