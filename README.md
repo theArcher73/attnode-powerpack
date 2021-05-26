@@ -13,13 +13,12 @@ The voltage source must provide at least 120 mA.
 
 Update 26.05.2021: add a Voltage divider added to monitor the Vin with an ADC pin of the ATTiny. The resistance ratio must be determined based on Vin, here are some sample values. The voltage at the ADC pad should not exceed 2.1V.
 
-  Vin | R1 | R2
-------|----|----
-3.7V | 2M2 | 2M7
-5V | 5M6 | 3M9
-6V | 3M3 | 1M8
-9V | 3M3 | 1M
-12V | 4M7 | 1M
+  Vin | Vmax |  R1 | R2
+------|----__|-----|----
+3.7V | 4.2V | 1M | 1M
+USB | 5.25V | 1M5 | 1M
+9V | 11V | 6M8 | 1M5
+12V | 15.4V | 10M | 1M5
 
 Attention! Pay attention to the peak voltage, which is higher than the nominal voltage for many batteries!
 
