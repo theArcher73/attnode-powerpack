@@ -25,6 +25,6 @@ Attention! Pay attention to the peak voltage, which is higher than the nominal v
 
 More information can be found [here](https://www.attno.de/blog/2021-01-08).
 
-![front view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_front.png) *front view*
-
-![Rear view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_rear.png) *rear view*
+ &nspb; | & nbsp;
+--------|--------
+![front view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_front.png) | ![Rear view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_rear.png)
