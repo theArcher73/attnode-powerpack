@@ -11,6 +11,16 @@ The power supply can be either via the JST socket, or the two pads directly on t
 
 The voltage source must provide at least 120 mA.
 
+Update 26.05.2021: add a Voltage divider added to monitor the Vin with an ADC pin of the ATTiny. The resistance ratio must be determined based on Vin, here are some sample values. The voltage at the ADC pad should not exceed 2.1V.
+
+  Vin | R1 | R2
+------|----|----
+3.7V | 2M2 | 2M7
+5V | 5M6 | 3M9
+6V | 3M3 | 1M8
+9V | 3M3 | 1M
+12V | 4M7 | 1M
+
 More information can be found [here](https://www.attno.de/blog/2021-01-08).
 
 ![front view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_front.png) *front view*
