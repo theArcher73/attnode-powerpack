@@ -21,6 +21,8 @@ Update 26.05.2021: add a Voltage divider added to monitor the Vin with an ADC pi
 9V | 3M3 | 1M
 12V | 4M7 | 1M
 
+Attention! Pay attention to the peak voltage, which is higher than the nominal voltage for many batteries!
+
 More information can be found [here](https://www.attno.de/blog/2021-01-08).
 
 ![front view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_front.png) *front view*
