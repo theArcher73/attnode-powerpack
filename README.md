@@ -30,4 +30,4 @@ More information can be found [here](https://www.attno.de/blog/2021-01-08).
 
 ## Disclaimer
 
-The documentation of the attno.de-powerpack sensor is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+The documentation of the attno.de-powerpack is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
