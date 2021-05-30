@@ -27,3 +27,7 @@ More information can be found [here](https://www.attno.de/blog/2021-01-08).
  front  | back       
 --------|--------
 ![front view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_front.png) | ![Rear view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_rear.png)
+
+## Disclaimer
+
+The documentation of the TTN-Apeldoorn Aid-Hittestress-2021 sensor is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
