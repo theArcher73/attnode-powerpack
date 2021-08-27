@@ -28,7 +28,7 @@ More information can be found [here](https://www.attno.de/blog/2021-01-08).
 
  front  | back       
 --------|--------
-![front view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_front.png) | ![Rear view](https://github.com/theArcher73/powerpack/blob/main/kicad-project/img/board_rear.png)
+![front view](https://raw.githubusercontent.com/theArcher73/attnode-powerpack/V1.2---USB-C/kicad-project/img/board_front.png) | ![Rear view](https://raw.githubusercontent.com/theArcher73/attnode-powerpack/V1.2---USB-C/kicad-project/img/board_rear.png)
 
 ## Disclaimer
 
